@@ -10,7 +10,7 @@ Acestea sunt cerințele celor 3 teme pe care le-am avut de rezolvat în cadrul l
 <a name="shell-script"></a>
 # Shell script for retrieving system info | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 Să se realizeze un script ce colectează și afișează informații despre sistemul de operare.
-Scriptul va afișa un meniu cu următoarele opțiuni:\
+Scriptul va afișa un meniu cu următoarele opțiuni:
 1. Ieșire
 2. Afișare: ID-ul procesului initiat la executarea scriptului, tipul sistemului de operare, numărul de secunde de când 
 s-a executat scriptul și calea curentă
