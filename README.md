@@ -1,5 +1,5 @@
 # OS-lab-assignments
-In cel de-al doilea semestru al primului an de licență, am făcut un curs despre sistemele de operare cu accent pe Linux.\
+In cel de-al doilea semestru al primului an de licență, am făcut un curs despre sistemele de operare cu accent pe Linux.
 Acestea sunt cerințele celor 3 teme pe care le-am avut de rezolvat în cadrul laboratoarelor de SO:
 
 # Table of Contents 📃
