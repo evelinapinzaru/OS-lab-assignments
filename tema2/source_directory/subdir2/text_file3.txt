@@ -1,0 +1,31 @@
+De ce nu poate un astmatic sa devina poet? 
+Pentru ca e lipsit de inspiratie. :)
+
+_______________________________________________________________________________________________
+
+... and here comes some info about linux, because this file should have more than 500 Bytes ...
+
+Since its creation back in 1991 the open source Unix-like operating system has gone on to
+revolutionise the world, empower startups, birth new industries, and give agency to new
+types of gadgets, gizmos and gateways.
+
+Linux is the dominant OS in cloud, in IoT, and on mobile. And while it might not have
+“won” the desktop war (yet) there’s no denying that its collaborative, freely available
+nature has had a major influence on a swathe of its competitors.
+
+The beating heart of the modern world, and an omnipresent force pervading daily digital
+life: Linux is everywhere. You’ll find powering high-speed trains and and high-end
+supercomputers as well as smartphones, space faring robots, and super-secure routers.
+
+So to celebrate 27 years of this crazy can-do kernel here’s a list of 27 facts about
+Linux, cunningly cobbled together from a compendium of community sources, interviews
+with its creator, and copious cuts from publicly available data.
+
+1. There are 20,323,379 lines of code in the Linux kernel as of 2018. That might sound
+like a lot but it’s actually the smallest the kernel has been for some time! Even so,
+despite the recent reductions, the huge line count means Linux remains the single
+largest open source project on the planet.
+
+[...]
+
+Source: https://www.omgubuntu.co.uk/2018/08/interesting-facts-about-linux
