@@ -41,7 +41,7 @@ drepturi de acces ca și fișierele originale.\
 Tema va fi însoțită de fișierul makefile corespunzător.
 
 <a name="process"></a>
-# Managing inter-process communication with C | ![](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Managing inter-process communication with C | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 Se consideră un program C ce conţine două procese (părinte + fiu). Procesul părinte va trimite, printr-un pipe, timp 
 de 7s caracterul “e” către procesul fiu, în plus la fiecare secundă o să trimită semnalul SIGUSR1. Procesul fiu va 
 citi caracterele din pipe şi va realiza o statistică ce va conţine numărul total de caractere, precum şi numărul de 
