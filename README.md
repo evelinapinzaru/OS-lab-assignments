@@ -1,5 +1,5 @@
 # OS-lab-assignments
-In cel de-al doilea semestru al primului an de licență, am făcut un curs despre sistemele de operare cu accent pe Linux.\
+In cel de-al doilea semestru al primului an de licență, am făcut un curs despre sistemele de operare cu accent pe Linux.
 Acestea sunt cerințele celor 3 teme pe care le-am avut de rezolvat în cadrul laboratoarelor de SO:
 
 # Table of Contents 📃
@@ -9,8 +9,8 @@ Acestea sunt cerințele celor 3 teme pe care le-am avut de rezolvat în cadrul l
 
 <a name="shell-script"></a>
 # Shell script for retrieving system info | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-Să se realizeze un script ce colectează și afișează informații despre sistemul de operare.
-Scriptul va afișa un meniu cu următoarele opțiuni:\
+Să se realizeze un script ce colectează și afișează informații despre sistemul de operare.\
+Scriptul va afișa un meniu cu următoarele opțiuni:
 1. Ieșire
 2. Afișare: ID-ul procesului initiat la executarea scriptului, tipul sistemului de operare, numărul de secunde de când 
 s-a executat scriptul și calea curentă
@@ -41,7 +41,7 @@ drepturi de acces ca și fișierele originale.\
 Tema va fi însoțită de fișierul makefile corespunzător.
 
 <a name="process"></a>
-# Managing inter-process communication with C | ![](https://geps.dev/progress/91?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Managing inter-process communication with C | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 Se consideră un program C ce conţine două procese (părinte + fiu). Procesul părinte va trimite, printr-un pipe, timp 
 de 7s caracterul “e” către procesul fiu, în plus la fiecare secundă o să trimită semnalul SIGUSR1. Procesul fiu va 
 citi caracterele din pipe şi va realiza o statistică ce va conţine numărul total de caractere, precum şi numărul de 
