@@ -69,8 +69,7 @@ do
        afisare_linii "$log_file" "$searched_text";;
 
     *) echo -e "\nPlease enter a number between 1 and 9 next time you run this script !";;
-
   esac
-
+  
 sleep 1
 done
